@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Primary */
+    --color-primary: 75deg 94% 57%;
+    /* Neutral */
+    --color-white: 0deg 0% 100%;
+    --color-grey: 0deg 0% 20%;
+    --color-dark-grey: 0deg 0% 12%;
+    --color-off-black: 0deg 0% 8%;
+  }
+}
